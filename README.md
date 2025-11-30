@@ -1,6 +1,7 @@
 # Weld Defect Detection System
 
 Team: Sudharshan and Rohit 
+
 Application Track
 
 A complete end-to-end machine learning pipeline for detecting weld defects using computer vision. We created a dataset for thermal defect detection. we created our own welding samples and recorded the images using raspberry pi and FLIR Lepton.
