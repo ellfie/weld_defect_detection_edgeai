@@ -1,7 +1,7 @@
 # Weld Defect Detection System
 
 Team: Sudharshan and Rohit 
-
+Application Track
 
 A complete end-to-end machine learning pipeline for detecting weld defects using computer vision. We created a dataset for thermal defect detection. we created our own welding samples and recorded the images using raspberry pi and FLIR Lepton.
 It's explained well in technical report.
@@ -16,6 +16,8 @@ This system detects 5 types of weld defects:
 - **Spatter**: Metal particles deposited around weld area
 
 ## Project Structure
+
+get the weld-cpp-mcu-v3 from [drive](https://drive.google.com/file/d/1J3hv7t25zKeHH64AVqrNvAQnffeWxQjt/view?usp=sharing)
 
 ```
 weld/
